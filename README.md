@@ -22,4 +22,5 @@ The following documents are submitted as part of this project:<ul>
   <li><b>superset-query4.csv</b></li>
   <li><b>superset-query5.csv</b></li>
   <li><b>mid-course project csv files.ipynb</b>: This is my Jupyter Notebook where the meat of my work took place.  It also contains most thorough narrative of my process.</li>
-  <li><b>mid-course project.twbx</b>: Here is my Tableau workbook containing a dashboard and some visualizations of my data.  Because Tableau Desktop 2020.03 does not have the correct drivers for Postgres 12.0, I was unable to work directly from our database and had to rely on the CSV files I created instead.  
+  <li><b>mid-course project.twbx</b>: Here is my Tableau workbook containing a dashboard and some visualizations of my data.  Because Tableau Desktop 2020.03 does not have the correct drivers for Postgres 12.0, I was unable to work directly from our database and had to rely on the CSV files I created instead.</li>
+  <li><b>1213bst Will You Choose Cash or Trade.pdf</b>: This is the slideshow for my presentation.</li></ul>
